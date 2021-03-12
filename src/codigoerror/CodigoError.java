@@ -19,7 +19,7 @@ public class CodigoError {
     public static void main(String[] args) {
         double valorR, valorA;
         Scanner xd = new Scanner(System.in);
-        System.out.print("Ingrese el valor real ");
+        System.out.print("Ingrese e:l valor real ");
         valorR = xd.nextDouble();
         System.out.print("Ingrese el valor aproximado ");
         valorA = xd.nextDouble();
